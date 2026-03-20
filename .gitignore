@@ -1,0 +1,9 @@
+output.mp4
+thumbnail.jpg
+subtitles.srt
+_background.png
+_sample_frame.png
+__pycache__/
+*.pyc
+.DS_Store
+.superpowers/

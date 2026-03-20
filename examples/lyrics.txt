@@ -1,0 +1,13 @@
+Song Title Here
+
+First verse in original language
+Translation of first verse
+
+Second verse in original language
+Translation of second verse
+
+Second verse repeated
+Translation repeated
+
+Third verse in original language
+Translation of third verse
